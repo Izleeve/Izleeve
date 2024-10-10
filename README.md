@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Izleeve</h1>
-<h3 align="center">A mortal who is passionate about Cybersecurity</h3> ![pepe](https://github.com/user-attachments/assets/601d8718-68d6-4fb6-8ebc-c0d897e71348)
-
+<h3 align="center">A mortal who is passionate about Cybersecurity</h3> <img src="https://tenor.com/view/pepe-hack-hack-pepo-pepe-gif-21294949">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izleeve&label=Profile%20views&color=0e75b6&style=flat" alt="izleeve" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izleeve" alt="izleeve" /></a> </p>
