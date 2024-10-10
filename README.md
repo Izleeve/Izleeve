@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Izleeve</h1>
-<h3 align="center">A mortal who is passionate about Cybersecurity</h3>![pepe](https://github.com/user-attachments/assets/601d8718-68d6-4fb6-8ebc-c0d897e71348)
+<h3 align="center">A mortal who is passionate about Cybersecurity</h3> ![pepe](https://github.com/user-attachments/assets/601d8718-68d6-4fb6-8ebc-c0d897e71348)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izleeve&label=Profile%20views&color=0e75b6&style=flat" alt="izleeve" /> </p>
 
