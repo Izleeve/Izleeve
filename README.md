@@ -9,11 +9,9 @@
 
 - 🌱 I’m currently learning **Ethical Hacking, Digital Forensics and Penetration Testing**
 
-- 📫 How to reach me **https://linktr.ee/Izleeve**
-
 - ⚡ Fun fact **I like Games, Anime and Artworks**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: **https://linktr.ee/Izleeve** </h3>**https://linktr.ee/Izleeve**
 <p align="left">
 </p>
 
