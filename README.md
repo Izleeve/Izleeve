@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I like Games, Anime and Artworks**
 
-<h3 align="left">Connect with me: **https://linktr.ee/Izleeve** </h3>**https://linktr.ee/Izleeve**
+<h3 align="left">Connect with me: https://linktr.ee/Izleeve</h3>
 <p align="left">
 </p>
 
